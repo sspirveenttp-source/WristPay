@@ -1,0 +1,6 @@
+{
+  "name": "WristPay AI - IoT Cashless Wristwatch with DNN Anomaly Detection",
+  "description": "IoT Cashless Money Transfer Wristwatch platform with Deep Neural Network transaction anomaly detection and real-time smart wallet prototype.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
